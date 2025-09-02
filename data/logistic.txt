@@ -1,0 +1,10 @@
+1|Jersey Home 2025|50|Baru|Jersey|Gudang Utama|05-01-2025|1
+2|Jersey Away 2025|45|Baru|Jersey|Gudang Utama|05-01-2025|1
+3|Bola Latihan Nike|30|Baik|Perlengkapan Latihan|Stadion GBT|12-01-2025|1
+4|Rompi Latihan|40|Baik|Perlengkapan Latihan|Stadion GBT|12-01-2025|1
+5|Sepatu Cadangan|20|Baru|Perlengkapan Latihan|Gudang A|15-01-2025|1
+6|Kit Medis Lengkap|5|Baik|Medis|Ruangan Medis Timnas|10-01-2025|1
+7|Alat Recovery Cryo|1|Baik|Teknologi|Ruangan Medis Timnas|20-01-2025|1
+8|GPS Tracker Vest|25|Baik|Teknologi|Stadion GBT|25-01-2025|1
+9|Kamera Analisis Video|3|Baik|Teknologi|Ruang Analisis|28-01-2025|1
+10|Botol Minum Timnas|70|Baik|Perlengkapan Lain|Gudang A|31-05-2025|1

@@ -1,0 +1,18 @@
+1|Shin Tae-yong|54|Kepala Pelatih|UEFA Pro|25|Korea Selatan|1
+2|Nova Arianto|44|Asisten|AFC A|12|Indonesia|1
+3|Marko Grgić|41|Pelatih Fisik|UEFA A|15|Kroasia|1
+4|Yunan Helmi|47|Asisten|AFC A|10|Indonesia|1
+5|Kim Hae-won|51|Pelatih Kiper|UEFA B|18|Korea Selatan|1
+6|Syarif Alwi|48|Dokter Tim|FIFA Medical|20|Indonesia|1
+7|Alfredo Colman|45|Fisioterapis|FIFA Physio|14|Paraguay|1
+8|Aditya Irawan|39|Masseur|Lisensi Medis|9|Indonesia|1
+9|Hasan Basri|42|Performance Analyst|Data Analyst Pro|11|Indonesia|1
+10|Mochamad Isa|37|Statistik & Data|AFC Analyst|8|Indonesia|1
+11|Jung Hae-seong|59|Analisis Video|UEFA A|22|Korea Selatan|1
+12|Rosa Mardiana|35|Psikolog Tim|Lisensi Psikologi|7|Indonesia|1
+13|Ari Gunawan|40|Chef Tim & Nutrisionis|Lisensi Nutrisi Atlet|10|Indonesia|1
+14|Ahmad Fauzi|38|Media Officer|PR & Media|9|Indonesia|1
+15|Ridwan Malik|36|Kitman & Logistik|Manajemen Tim|8|Indonesia|1
+16|Indra Sjafri|61|Direktur|AFC Pro|30|Indonesia|1
+17|Sumardji|55|Manager|Manajemen Sepak Bola|15|Indonesia|1
+18|Bima Sakti|48|Pelatih Teknik|AFC A|13|Indonesia|1

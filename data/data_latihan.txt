@@ -1,0 +1,10 @@
+1|TC Januari 2025|Jakarta|02/06/2025|15/06/2025|10|28|Persiapan Piala AFF|1|Shin Tae-yong
+2|TC Maret 2025|Yogyakarta|10/07/2025|20/07/2025|10|30|TC Rutin|0|Indra Sjafri
+3|TC April 2025|Surabaya|06/08/2025|11/08/2025|10|26|Persiapan Kualifikasi|0|Nova Arianto
+4|TC Mei 2025|Bandung|05/09/2025|15/09/2025|10|32|Persiapan Piala AFF|0|Shin Tae-yong
+5|TC Juni 2025|Malang|10/10/2025|20/10/2025|10|29|TC Rutin|0|Bima Sakti
+6|TC Darurat|Jakarta|21/06/2026|25/06/2026|4|20|TC Rutin|0|Nova Arianto
+7|TC Khusus Fisik|Bali|06/07/2026|10/07/2026|9|25|TC Rutin|0|Nova Arianto
+8|TC Elite Youth|Sidoarjo|11/07/2026|21/07/2026|10|30|Persiapan Piala AFF|0|Indra Sjafri
+9|TC Jelang Kualifikasi|Makassar|25/07/2026|05/08/2026|11|27|Persiapan Kualifikasi|0|Shin Tae-yong
+10|TC Internal|Solo|10/08/2026|20/08/2026|10|24|TC Rutin|0|Bima Sakti

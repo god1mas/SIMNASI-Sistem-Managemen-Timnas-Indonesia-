@@ -1,0 +1,50 @@
+GK|Ernando Ari|22|21|Persebaya Surabaya|7.5|0
+DF|Kadek Raditya|25|23|Persebaya Surabaya|7.2|0
+DF|Riswan Lauhin|24|32|Persebaya Surabaya|7.0|0
+DF|Randy May Hanson|26|18|Persebaya Surabaya|7.1|0
+DF|Arief Catur|27|2|Persebaya Surabaya|7.0|0
+DF|Mikael Tata|24|25|Persebaya Surabaya|7.0|0
+DF|Ardi Idrus|30|3|Persebaya Surabaya|7.2|0
+MF|Muhammad Hidayat|27|96|Persebaya Surabaya|7.3|0
+MF|Andre Oktaviansyah|22|8|Persebaya Surabaya|7.2|0
+FW|Kasim Botan|25|77|Persebaya Surabaya|7.4|0
+GK|Teja Paku Alam|30|14|Persib Bandung|7.3|0
+GK|Fitrah Maulana|19|50|Persib Bandung|6.8|0
+DF|Henhen Herdiana|29|12|Persib Bandung|7.2|0
+DF|Zalnando|28|27|Persib Bandung|7.1|0
+DF|Rezaldi Hehanussa|29|56|Persib Bandung|7.0|0
+DF|Edo Febriansyah|27|97|Persib Bandung|7.3|0
+MF|Dedi Kusnandar|33|11|Persib Bandung|7.4|0
+MF|Beckham Putra|23|7|Persib Bandung|7.5|0
+MF|Robi Darwis|21|6|Persib Bandung|7.2|0
+FW|Dimas Drajad|28|9|Persib Bandung|7.6|0
+GK|Muhammad Natshir|31|1|Dewa United|7.0|0
+GK|Dafa Setiawarman|22|31|Dewa United|6.8|0
+DF|Reva Adi Utama|28|3|Dewa United|7.1|0
+DF|Ferian Rizki|26|12|Dewa United|7.0|0
+DF|Brian Fatari|25|14|Dewa United|7.0|0
+DF|Ady Setiawan|29|23|Dewa United|7.2|0
+DF|Altalariq Ballah|23|37|Dewa United|7.0|0
+DF|Agung Mannan|27|47|Dewa United|7.1|0
+MF|Asep Berlian|34|4|Dewa United|7.0|0
+MF|Theo Numberi|23|6|Dewa United|7.0|0
+GK|Andritany Ardhiyasa|33|26|Persija Jakarta|7.4|0
+GK|Cahya Supriadi|22|50|Persija Jakarta|7.0|0
+DF|Ilham Rio Fahmi|23|2|Persija Jakarta|7.2|0
+DF|Rizky Ridho|23|5|Persija Jakarta|7.5|1
+DF|Firza Andika|26|11|Persija Jakarta|7.2|0
+DF|Hansamu Yama|30|23|Persija Jakarta|7.3|0
+DF|Muhammad Ferarri|21|41|Persija Jakarta|7.0|0
+DF|Akbar Arjunsyah|23|33|Persija Jakarta|7.0|0
+MF|Syahrian Abimanyu|26|8|Persija Jakarta|7.3|0
+MF|Hanif Sjahbandi|28|19|Persija Jakarta|7.2|0
+GK|Teguh Amiruddin|30|1|Arema FC|7.0|0
+DF|Bagas Adi Nugroho|28|5|Arema FC|7.2|0
+DF|Sandy Ferizal|26|6|Arema FC|7.0|0
+DF|Gilang Ginarsa|34|3|Arema FC|6.8|0
+MF|Jayus Hariono|27|14|Arema FC|7.3|0
+MF|Adam Alis|30|8|Arema FC|7.5|0
+MF|Dendi Santoso|33|41|Arema FC|7.1|0
+MF|Rizky Dwi Febrianto|28|13|Arema FC|7.4|0
+FW|Dedik Setiawan|30|27|Arema FC|7.2|0
+FW|Charles Lokolingoy|27|9|Arema FC|7.9|0

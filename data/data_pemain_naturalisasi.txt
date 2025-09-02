@@ -1,0 +1,26 @@
+FW|Cristian Gonzales|48|0|Pensiun|0|0
+MF|Kim Kurniawan|35|0|Pensiun|0|0
+DF|Diego Michiels|35|0|Arema FC|0|0
+FW|Greg Nwokolo|39|0|Pensiun|0|0
+MF|Stefano Lilipaly|35|0|Borneo FC|0|0
+FW|Beto Goncalves|44|0|Pensiun|0|0
+FW|Ezra Walian|27|0|Persib Bandung|0|0
+MF|Marc Klok|32|0|Persib Bandung|0|1
+DF|Jordi Amat|33|0|Johor Darul Ta'zim|0|1
+DF|Sandy Walsh|30|0|KV Mechelen|0|0
+DF|Shayne Pattynama|27|0|KAS Eupen|0|0
+MF|Ivar Jenner|21|0|Jong Utrecht|0|0
+FW|Rafael Struick|22|0|Brisbane Roar|0|1
+DF|Jay Idzes|24|0|Venezia|0|0
+DF|Justin Hubner|21|0|Cerezo Osaka|0|0
+DF|Kevin Diks|28|0|FC Copenhagen|0|0
+DF|Mees Hilgers|24|0|FC Twente|0|0
+DF|Nathan Tjoe-A-On|23|0|Swansea City|0|0
+DF|Calvin Verdonk|28|0|NEC Nijmegen|0|0
+MF|Thom Haye|30|0|SC Heerenveen|0|0
+GK|Maarten Paes|27|0|FC Dallas|0|0
+FW|Ole Romeny|25|0|FC Utrecht|0|0
+DF|Dean James|24|0|FC Volendam|0|0
+GK|Emi lAudero|28|0|Inter Milan|0|0
+MF|Joey Pelupessy|31|0|FC Groningen|0|0
+FW|Jens Raven|19|0|FC Dordrecht|0|0

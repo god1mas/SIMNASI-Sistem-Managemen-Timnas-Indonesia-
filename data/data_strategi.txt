@@ -1,0 +1,11 @@
+1|Serangan Balik Cepat|4-2-3-1|Bertahan lalu meluncurkan serangan cepat melalui sayap.
+2|Tiki-Taka|4-3-3|Pendekatan penguasaan bola penuh dan operan cepat antar lini.
+3|Parkir Bus|5-4-1|Fokus bertahan total dengan banyak pemain di belakang bola.
+4|Gegenpressing|4-3-3|Langsung merebut bola kembali setelah kehilangan penguasaan.
+5|Serangan Sayap|4-4-2|Manfaatkan kecepatan pemain sayap dan crossing ke kotak penalti.
+6|Counter Wide|3-5-2|Menggunakan sayap sebagai outlet serangan balik cepat.
+7|Pressing Tinggi|4-1-4-1|Menekan lawan sejak garis pertahanan paling depan.
+8|False Nine|4-6-0|Mengandalkan pergerakan pemain tengah yang naik ke depan tanpa striker murni.
+9|Direct Ball|4-4-2|Bola panjang langsung ke depan melewati lini tengah.
+10|Bertahan dan Kontrol|4-5-1|Kuasai lini tengah dengan 5 gelandang dan pertahanan solid.
+    

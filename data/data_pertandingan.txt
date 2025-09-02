@@ -1,0 +1,10 @@
+Malaysia|25-03-2025|Stadion GBK|Uji Coba|Kandang|3|1|true
+Thailand|29-03-2025|Rajamangala Stadium|Uji Coba|Tandang|2|1|true
+Vietnam|07-06-2025|My Dinh Stadium|Kualifikasi Piala Dunia|Tandang|0|0|false
+UAE|11-06-2025|Stadion GBK|Kualifikasi Piala Dunia|Kandang|0|0|false
+Iran|05-09-2025|Si Jalak Harupat|Uji Coba|kandang|0|0|false
+Australia|09-09-2025|Stadion GBK|Uji Coba|Kandang|0|0|false
+Singapura|10-10-2025|Stadion Nasional|Uji Coba|Tandang|0|0|false
+Korea Selatan|14-10-2025|Stadion GBK|Uji Coba|Kandang|0|0|false
+Arab Saudi|15-11-2025|King Saud University Stadium|Uji Coba|Tandang|0|0|false
+Qatar|19-11-2025|Stadion GBK|Uji Coba|Kandang|0|0|false

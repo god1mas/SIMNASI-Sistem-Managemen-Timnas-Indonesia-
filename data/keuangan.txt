@@ -1,0 +1,10 @@
+1|10-01-2025|Pembelian Jersey Home 2025|75000|Pengeluaran|Sponsor
+2|12-01-2025|Pembelian Bola Latihan Nike|30000|Pengeluaran|PSSI
+3|15-01-2025|Bonus Pemain atas Kemenangan|100000|Pengeluaran|Sponsor
+4|20-01-2025|Subsidi dari Pemerintah|500000|Pemasukan|Pemerintah
+5|25-01-2025|Donasi dari Suporter|15000|Pemasukan|Donasi
+6|28-01-2025|Pembelian Kamera Analisis|90000|Pengeluaran|Sponsor
+7|01-02-2025|Gaji Staf Pelatih Bulanan|120000|Pengeluaran|PSSI
+8|05-02-2025|Sponsor Baru: Garuda Sport|250000|Pemasukan|Sponsor
+9|10-02-2025|Pembelian Alat Recovery Cryo|60000|Pengeluaran|PSSI
+10|15-02-2025|Pembelian GPS Tracker|100000|Pengeluaran|Sponsor
