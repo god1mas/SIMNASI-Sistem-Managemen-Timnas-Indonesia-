@@ -1,1 +1,1 @@
-# SIMNASI-Sistem-Managemen-Timnas-Indonesia-
+# SIMNASI-Sistem-Managemen-Timnas-Indonesia-Berbasis-CLI
